@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/normal"
+        android:title="Normal"></item>
+    <item android:id="@+id/hibrid" android:title="hybrid"></item>
+    <item android:id="@+id/terain" android:title="Terain"></item>
+    <item android:id="@+id/Satelit" android:title="Satelit"></item>
+    <item android:id="@+id/none" android:title="None"></item>
+</menu>
